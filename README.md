@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @indrarizqi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning website programming
-- 💞️ I’m looking to collaborate on software engineering
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Website Programming
+- 💞️ I’m looking to collaborate on Software Engineering
 - 📫 How to reach me ...
 - 😄 Pronouns: Rizz
-- ⚡ Fun fact: I like to something new
+- ⚡ Fun fact: I Like to Something New
 
 <!---
 indrarizqi/indrarizqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
