@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @indrarizqi
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Website Programming
-- 💞️ I’m looking to collaborate on Software Engineering
-- 📫 How to reach me.. IG : ndain_rz
-- 😄 Pronouns: Rizz
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Software Engineering Community
+- 📫 How to reach me.. Instagram : codemdev_
+- 😄 Pronouns: Indra
 - ⚡ Fun fact: I Like to Something New
 
 <!---
