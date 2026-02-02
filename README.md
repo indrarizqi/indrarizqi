@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **[Your Role]** passionate about building accessible and performant applications. I specialize in **[Core Skill 1]** and **[Core Skill 2]**.
+I'm a **Fullstack Developer** passionate about building accessible and performant applications. I specialize in **Frontend Dev** and **Backend Dev**.
 
 - 🔭 I’m currently working on **[Project Name]**
 - 🌱 I’m currently learning **Web Development**
