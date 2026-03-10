@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Indra Rizqi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZmOHF2bTh2Nnlxbm1qZXV5ejhrM3Y5ZTR3dHhkcXI4dHo2NWZmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1448TKNMMg4BFu/giphy.gif">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3p3NjNpcm5wMzMxcmdvdzZsdm96eTVoeHo5YjhiZ2VpYjVrMjB5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4yjVGU1AM7pBHiStFF/giphy.gif">
   
   <h3>Building robust solutions for the modern web.</h3>
   
